@@ -69,3 +69,5 @@ for i in range(16):
 
     rotate(bottom_2)
     rotate(cog_3)
+
+print("Done")
